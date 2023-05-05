@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at ITI
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
@@ -20,17 +20,17 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; C# | C | C++ | C | 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; SQLSERVER | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git |  |  | 
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Figma
 
 -->
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Azure Cloud Service 
 
 <hr>
 
@@ -72,13 +72,13 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/khaled-ibrahim-ahmed//"><img alt="LinkedIn" ></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
+<a href="mailto:khaled.ibrahem.ahmed.ali@gmail.com"><img alt="Email" ></a>
 
 </p>
 
