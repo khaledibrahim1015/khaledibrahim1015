@@ -52,9 +52,9 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="[https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif](https://github.com/khaledibrahim1015)" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledibrahim1015 =true)
 
 <br><br>
 
