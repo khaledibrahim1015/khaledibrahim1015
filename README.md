@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend Development & Software Development & DevOps Development**
 
-- 💬 Ask me about **.Net**
+- 💬 Ask me about **.Net** **goLang** **Backend** **DevOPs**
 
 - 📫 How to reach me **khaled.ibrahem.ahmed.ali@gmail.com**
 
